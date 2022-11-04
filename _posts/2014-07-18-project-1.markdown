@@ -4,8 +4,8 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Nov. 3
+client: me!
+category: Hobbies
+description: What I really enjoy doing just by myself is useally play games sometimes like a solo player game like Cyberpunk2077 (the game has gotten way better since release) or like a MMO game like Wizard 101 if anybody remebers that. I am into card games as a hobbie from electroinc card games like Hearthstone or Magic The Gathering from my personal experience my favorite is MTG, but I play Hearthstone more often.
 ---

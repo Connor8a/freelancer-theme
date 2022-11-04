@@ -4,8 +4,8 @@ modal-id: 2
 date: 2014-07-17
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Nov. 3
+client: me!
+category: Music
+description: I have a very intresting taste in music since they are pretty much all genres, but they are a few that I listen more than the others. Since I grew up in a Latino enviorment, songs from the Latino community have a special place in my heart from the tradtional songs from Vicente Frenández to more modern music like Marc Anthony. If your intrested in listening to some of the songs that I listen too I think this song will be a great start https://www.youtube.com/watch?v=vuXIgfU8GDc the song name is la pareja del año it is recent but it is a banger.
 ---
