@@ -4,8 +4,8 @@ modal-id: 4
 date: 2014-07-15
 img: game.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Nov.3
+client: me!
+category: Introverted 
+description: I consider myself an introvert though I used to be in a much worse social position. I used to be shy, quiet, and nervous when I was around people to the point where I avoided any contact or confrotation with anyone. Only when I learned on how to make friends did I actually become happy with my life and who I am as a person.
 ---

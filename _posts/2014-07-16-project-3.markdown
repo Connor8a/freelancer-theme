@@ -4,8 +4,8 @@ modal-id: 3
 date: 2014-07-16
 img: circus.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Nov.3
+client: me!
+category: Sports
+description: Back in the day when I was still in middle school and highschool a main intrest that I had was sports mainly Cross country and track. Though after awhile I felt like it was something that I didn't truely want in life because I didn't see myself having a future with sports even with my talents. So I made the bold decision to cut off my sports career as a way to get more computer science and engineering classes because those were the things I truely loved.
 ---

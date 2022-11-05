@@ -4,8 +4,8 @@ modal-id: 5
 date: 2014-07-14
 img: safe.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Nov.3
+client: me!
+category: Culture
+description: I am hyspanic or how my dad calls me a "white-mexican" which I think is very funny because I belong in two cultures, but those cultures don't truely accept me. I am from Llorado Teaxs which is a town that has a very strong Latino population and I was inducted into that culture. Then when my parents moved to Fort Worth, white people didn't know what to do with me so I tried re-entering into the Latino community there, but they didn't fully accept me there as well. Though I have friends in both communities that I am very gratefull for, I did have an identity crises because of my hertiage that I came to accept.
 ---
